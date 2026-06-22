@@ -13,4 +13,4 @@ add_executable(Input
         sum.c
         sqaure.c
         sqaure2.c
-        cafe.c)
+        internet_cafe.c)
