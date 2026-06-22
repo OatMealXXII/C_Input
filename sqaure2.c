@@ -6,9 +6,9 @@ int main() {
     // 2 x (กว้าง x ยาว)
     float width, height, space;
     printf("Enter width: ");
-    scanf("%f", &width);
+    scanf("%f", &width); // 18.2
     printf("Enter height: ");
-    scanf("%f", &height);
+    scanf("%f", &height); // 8.9
     space = 2*(width+height);
     printf("The area is: %.2f", space);
 }
