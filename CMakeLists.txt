@@ -12,4 +12,5 @@ add_executable(Input
         score.c
         sum.c
         sqaure.c
-        sqaure2.c)
+        sqaure2.c
+        cafe.c)
